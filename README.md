@@ -8,7 +8,6 @@ Este projeto consiste em uma série de 7 exercícios escritos em Portugol, uma l
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação e Execução](#instalação-e-execução)
 - [Exercícios](#exercícios)
-- [Licença](#licença)
 
 ## Introdução 📃
 
